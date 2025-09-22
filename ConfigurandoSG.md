@@ -17,8 +17,9 @@
    - SG-EFS  
    - SG-LB  
    - SG-RDS
+
   
-   <img width="701" height="281" alt="Image" src="https://github.com/user-attachments/assets/1409d424-e805-48f1-93a1-6b07f5b94172" />
+   <img width="691" height="271" alt="Image" src="https://github.com/user-attachments/assets/1409d424-e805-48f1-93a1-6b07f5b94172" />
 
 ---
 
@@ -65,5 +66,6 @@ Mesma lógica, mas editando **Outbound** em vez de **Inbound**.
 
 ### 🌍 SG-LB  
 ![Imagem]()  
+
 
 
