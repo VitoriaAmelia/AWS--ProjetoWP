@@ -2,22 +2,23 @@
 
 ## Criando Security Groups
 
-1. No menu lateral da VPC, clique em **Security Groups**  
+1. No menu lateral da VPC, clique em **Security Groups**
+     
    <img width="729" height="110" alt="Image" src="https://github.com/user-attachments/assets/e15eb533-450c-4b5f-b604-43a5443fbf15" />
 
-2. Clique em **Create Security Groups**  
-3. Preencha:  
+3. Clique em **Create Security Groups**  
+4. Preencha:  
    - Nome do SG  
    - Descrição  
    - Selecione a VPC criada  
 
-4. Crie **4 Security Groups**:  
+5. Crie **4 Security Groups**:  
    - SG-EC2  
    - SG-EFS  
    - SG-LB  
    - SG-RDS
   
-   <img width="711" height="291" alt="Image" src="https://github.com/user-attachments/assets/1409d424-e805-48f1-93a1-6b07f5b94172" />
+   <img width="701" height="281" alt="Image" src="https://github.com/user-attachments/assets/1409d424-e805-48f1-93a1-6b07f5b94172" />
 
 ---
 
@@ -64,4 +65,5 @@ Mesma lógica, mas editando **Outbound** em vez de **Inbound**.
 
 ### 🌍 SG-LB  
 ![Imagem]()  
+
 
