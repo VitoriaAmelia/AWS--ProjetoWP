@@ -76,7 +76,7 @@
 
 3. Selecione sua **VPC** e siga com **HTTP1**
 
-   <img width="543" height="241" alt="Image" src="https://github.com/user-attachments/assets/2cbc3c44-d3dd-4491-89d2-693a6c5184d1" />
+   <img width="543" height="341" alt="Image" src="https://github.com/user-attachments/assets/2cbc3c44-d3dd-4491-89d2-693a6c5184d1" />
 
 
 ---
