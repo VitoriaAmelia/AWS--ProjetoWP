@@ -50,7 +50,7 @@
 
 13. Selecione **Enable Group Metrics Collection within CloudWatch**  
 
-  <img width="1007" height="496" alt="Image" src="https://github.com/user-attachments/assets/21b22ae4-00b5-457a-9d78-586b48c8aa54" />
+  <img width="762" height="150" alt="Image" src="https://github.com/user-attachments/assets/21b22ae4-00b5-457a-9d78-586b48c8aa54" />
 
 ---
 
