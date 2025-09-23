@@ -25,7 +25,7 @@
 
 <img width="474" height="351" alt="Image" src="https://github.com/user-attachments/assets/999a69fe-24bb-400f-b297-841328a555a0" />
 
-- Em **Lifecycle Policy**, selecione **None**  
+- Nessa etapa, selecione **None**  
 
 <img width="474" height="366" alt="Image" src="https://github.com/user-attachments/assets/eb8ddf17-6c98-4d23-bbc3-a724a141e2ce" />
 
@@ -52,4 +52,5 @@
 Depois, volte para **File Systems** e anote o **File System ID**  
 
 ![Imagem]()
+
 
