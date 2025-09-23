@@ -74,8 +74,7 @@
     
 - Em **Existing VPC Security Groups**, selecione o **SG-RDS**
 
-  <img width="505" height="240" alt="Image" src="https://github.com/user-attachments/assets/dde85125-dc3a-4a50-89f2-60ddad8d7436" />
-
+    <img width="489" height="340" alt="Image" src="https://github.com/user-attachments/assets/bc49e569-317b-4cfe-b043-fffd98cb45ea" />
 ---
 
 ## Tags, Authentication & Monitoring
@@ -83,7 +82,6 @@
 - Autenticação: **Password Authentication**  
 - Habilite **Monitoring**  
 
-![Imagem]()  
 <img width="886" height="285" alt="Image" src="https://github.com/user-attachments/assets/8e0e6e77-2333-4549-aad8-7b9a2eee1419" />
 ---
 
@@ -98,6 +96,7 @@
 ## Finalizando
 - Confira o resumo  
 - Clique em **Create Database**  
+
 
 
 
