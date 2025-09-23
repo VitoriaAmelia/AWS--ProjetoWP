@@ -35,7 +35,7 @@
 
 7. Marque as duas zonas e escolha suas respectivas **subnets públicas**  
 
-   <img width="631" height="223" alt="Image" src="https://github.com/user-attachments/assets/6c27af9d-c69c-4c0e-b0af-0f151fe29d2a" />
+   <img width="631" height="323" alt="Image" src="https://github.com/user-attachments/assets/6c27af9d-c69c-4c0e-b0af-0f151fe29d2a" />
 ---
 
 8. Selecione o **SG** do Load Balancer  
@@ -90,6 +90,7 @@
 ---
 
 6. Crie o target group
+
 
 
 
