@@ -82,20 +82,22 @@
 - Autenticação: **Password Authentication**  
 - Habilite **Monitoring**  
 
-<img width="886" height="285" alt="Image" src="https://github.com/user-attachments/assets/8e0e6e77-2333-4549-aad8-7b9a2eee1419" />
+    <img width="686" height="185" alt="Image" src="https://github.com/user-attachments/assets/8e0e6e77-2333-4549-aad8-7b9a2eee1419" />
+
 ---
 
 ## Additional Configuration
 - Nome do database (anote)  
 - Desabilite **Automated Backup** (para reduzir custos)  
 
-<img width="886" height="538" alt="image" src="https://github.com/user-attachments/assets/bcfebfd9-debd-4089-bc47-ad90b37a9be8" />
+<img width="686" height="338" alt="image" src="https://github.com/user-attachments/assets/bcfebfd9-debd-4089-bc47-ad90b37a9be8" />
 
 ---
 
 ## Finalizando
 - Confira o resumo  
 - Clique em **Create Database**  
+
 
 
 
