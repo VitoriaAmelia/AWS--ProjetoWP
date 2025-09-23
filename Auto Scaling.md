@@ -42,7 +42,7 @@
 
 11. Adicione seu **Load Balancer**
 
-    <img width="872" height="833" alt="Image" src="https://github.com/user-attachments/assets/dcade761-a40f-4166-8e9e-57f566b8c898" />
+    <img width="472" height="433" alt="Image" src="https://github.com/user-attachments/assets/dcade761-a40f-4166-8e9e-57f566b8c898" />
 ---
 
 12. Modifique os valores do **Group Size** e do **Scaling**
