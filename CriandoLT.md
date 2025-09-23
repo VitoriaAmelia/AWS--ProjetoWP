@@ -5,6 +5,7 @@
 1. No menu lateral da **EC2**, procure por **Launch Template**  
 2. Clique em **Create Launch Template**  
 
+
   <img width="749" height="211" alt="Image" src="https://github.com/user-attachments/assets/883df538-bdc3-4051-a217-7c37fcd766dd" />
 
 ---
@@ -12,19 +13,19 @@
 3. Dê um **nome** e uma **descrição** ao template  
 4. Selecione **Auto Scaling Guidance**  
 
-<img width="505" height="266" alt="Image" src="https://github.com/user-attachments/assets/ad0226f5-21ab-4874-8119-129136e3b7de" />
+  <img width="505" height="266" alt="Image" src="https://github.com/user-attachments/assets/ad0226f5-21ab-4874-8119-129136e3b7de" />
 
 ---
 
 5. Escolha a **Amazon Linux** como imagem (AMI)  
 
-<img width="622" height="368" alt="Image" src="https://github.com/user-attachments/assets/60dba680-ea1c-450b-842f-e3a19a666f71" />
+  <img width="622" height="368" alt="Image" src="https://github.com/user-attachments/assets/60dba680-ea1c-450b-842f-e3a19a666f71" />
 
 6. Selecione **t2.micro** como tipo de instância  
 7. Selecione **Create new key pair**  
 8. Dê um **nome** e crie a chave  
 
-<img width="635" height="388" alt="Image" src="https://github.com/user-attachments/assets/3f61e6fe-4ecd-48e6-9426-d9800e49bbee" />
+  <img width="635" height="388" alt="Image" src="https://github.com/user-attachments/assets/3f61e6fe-4ecd-48e6-9426-d9800e49bbee" />
 
 ---
 
@@ -34,15 +35,16 @@
 
 10. Adicione **tags**, se necessário  
 
-<img width="642" height="145" alt="Image" src="https://github.com/user-attachments/assets/7a7b3b9d-e2dc-472e-885a-b4ec81b54603" />
+  <img width="642" height="145" alt="Image" src="https://github.com/user-attachments/assets/7a7b3b9d-e2dc-472e-885a-b4ec81b54603" />
 
 ---
 
 11. Role até **Advanced Details**  
 12. Cole sua **UserData**  
 
-<img width="625" height="400" alt="Image" src="https://github.com/user-attachments/assets/d3a137cb-10a1-44d6-8a39-a15544d066d8" />
+  <img width="625" height="400" alt="Image" src="https://github.com/user-attachments/assets/d3a137cb-10a1-44d6-8a39-a15544d066d8" />
 
 13. Clique em **Create Launch Template**  
+
 
 
