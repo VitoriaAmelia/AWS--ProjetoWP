@@ -82,7 +82,7 @@
 - Autenticação: **Password Authentication**  
 - Habilite **Monitoring**  
 
-    <img width="686" height="185" alt="Image" src="https://github.com/user-attachments/assets/8e0e6e77-2333-4549-aad8-7b9a2eee1419" />
+    <img width="686" height="285" alt="Image" src="https://github.com/user-attachments/assets/8e0e6e77-2333-4549-aad8-7b9a2eee1419" />
 
 ---
 
@@ -97,6 +97,7 @@
 ## Finalizando
 - Confira o resumo  
 - Clique em **Create Database**  
+
 
 
 
