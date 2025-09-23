@@ -83,13 +83,14 @@
 
 4. Deixe o caminho **Health Check** padrão  
 
-   <img width="308" height="163" alt="Image" src="https://github.com/user-attachments/assets/8f769425-d3bb-4363-b576-717ac66ce2b0" />
+   <img width="328" height="123" alt="Image" src="https://github.com/user-attachments/assets/8f769425-d3bb-4363-b576-717ac66ce2b0" />
 
 ---
 
 5. Modifique os números abaixo  
 
    <img width="258" height="323" alt="Image" src="https://github.com/user-attachments/assets/4d7ac1e7-c2d8-42f7-9026-445a444dd9c5" />
+
 
 
 
