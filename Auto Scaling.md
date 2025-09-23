@@ -20,7 +20,7 @@
 
 4. Escolha o **Launch Template**
 
-    <img width="578" height="423" alt="Image" src="https://github.com/user-attachments/assets/a3c1657e-a385-4155-95a8-00d84d8c5920" />
+    <img width="378" height="223" alt="Image" src="https://github.com/user-attachments/assets/a3c1657e-a385-4155-95a8-00d84d8c5920" />
 
 5. Vá para a próxima página  
 
@@ -32,7 +32,7 @@
 
 8. Selecione **Balanced Best Effort**  
 
-   <img width="742" height="564" alt="Image" src="https://github.com/user-attachments/assets/ad41b302-a5de-43a8-b564-b234464f97a9" />
+   <img width="542" height="364" alt="Image" src="https://github.com/user-attachments/assets/ad41b302-a5de-43a8-b564-b234464f97a9" />
 ---
 
 9. Selecione **Attach to an existing Load Balancer**
