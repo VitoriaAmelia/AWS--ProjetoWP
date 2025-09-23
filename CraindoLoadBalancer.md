@@ -45,7 +45,7 @@
 
 9. Em **Listening and Routing**, vá em **Create Target Group**  
 
-   <img width="617" height="375" alt="Image" src="https://github.com/user-attachments/assets/5b760191-6ddf-4ee4-88b1-78bb926f3369" />
+   <img width="517" height="275" alt="Image" src="https://github.com/user-attachments/assets/5b760191-6ddf-4ee4-88b1-78bb926f3369" />
 ---
 
 10. Role mais para baixo o documento para achar o passo a passo da configuração do **Target Group** e depois volte para seguir os últimos dois passos.  
@@ -90,6 +90,7 @@
 ---
 
 6. Crie o target group
+
 
 
 
