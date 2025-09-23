@@ -20,7 +20,7 @@
 
 4. Escolha o **Launch Template**
 
-    <img width="478" height="423" alt="Image" src="https://github.com/user-attachments/assets/a3c1657e-a385-4155-95a8-00d84d8c5920" />
+    <img width="488" height="433" alt="Image" src="https://github.com/user-attachments/assets/a3c1657e-a385-4155-95a8-00d84d8c5920" />
 
 5. Vá para a próxima página  
 
