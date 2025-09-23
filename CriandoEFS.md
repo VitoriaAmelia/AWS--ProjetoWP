@@ -54,7 +54,7 @@
 
 - Depois, volte para **File Systems** e anote o **File System ID**  
 
-      <img width="770" height="177" alt="Image" src="https://github.com/user-attachments/assets/003f1740-43a9-4359-a111-22880e8ab1c0" />
+     <img width="770" height="177" alt="Image" src="https://github.com/user-attachments/assets/003f1740-43a9-4359-a111-22880e8ab1c0" />
 
 
 
