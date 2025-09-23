@@ -62,9 +62,19 @@
   
   <img width="629" height="263" alt="Image" src="https://github.com/user-attachments/assets/b4a9b24b-844b-4946-9d3b-b54b1f9c05c8" />
   
-- Selecione a **VPC do projeto**  
-- Marque **Create new Subnet Group**  
-- Em **Existing VPC Security Groups**, selecione o **SG-RDS**  
+- Selecione a **VPC do projeto**
+
+    <img width="564" height="102" alt="image" src="https://github.com/user-attachments/assets/83fbeac9-d3fe-48b3-98fe-3a1deb68a7f2" />
+
+- Marque **Create new Subnet Group**
+
+    <img width="278" height="86" alt="Image" src="https://github.com/user-attachments/assets/bacf71d3-6fcd-4817-8447-04b602e5584c" />
+
+- Selecione "No" em public acess
+    
+- Em **Existing VPC Security Groups**, selecione o **SG-RDS**
+
+  <img width="505" height="240" alt="Image" src="https://github.com/user-attachments/assets/dde85125-dc3a-4a50-89f2-60ddad8d7436" />
 
 ---
 
@@ -74,15 +84,14 @@
 - Habilite **Monitoring**  
 
 ![Imagem]()  
-![Imagem]()
-
+<img width="886" height="285" alt="Image" src="https://github.com/user-attachments/assets/8e0e6e77-2333-4549-aad8-7b9a2eee1419" />
 ---
 
 ## Additional Configuration
 - Nome do database (anote)  
 - Desabilite **Automated Backup** (para reduzir custos)  
 
-![Imagem]()
+<img width="886" height="538" alt="image" src="https://github.com/user-attachments/assets/bcfebfd9-debd-4089-bc47-ad90b37a9be8" />
 
 ---
 
@@ -90,7 +99,6 @@
 - Confira o resumo  
 - Clique em **Create Database**  
 
-![Imagem]()
 
 
 
