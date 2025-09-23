@@ -76,7 +76,7 @@
 
 3. Selecione sua **VPC** e siga com **HTTP1**
 
-   <img width="443" height="241" alt="Image" src="https://github.com/user-attachments/assets/2cbc3c44-d3dd-4491-89d2-693a6c5184d1" />
+   <img width="543" height="241" alt="Image" src="https://github.com/user-attachments/assets/2cbc3c44-d3dd-4491-89d2-693a6c5184d1" />
 
 
 ---
@@ -90,6 +90,7 @@
 5. Modifique os números abaixo  
 
    <img width="558" height="613" alt="Image" src="https://github.com/user-attachments/assets/4d7ac1e7-c2d8-42f7-9026-445a444dd9c5" />
+
 
 
 
