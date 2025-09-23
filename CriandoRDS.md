@@ -30,10 +30,10 @@
 ---
 
 ## Settings
-- Identificador para o DB  
-- Master name (padrão ou alterado)  
-- Senha (anote e guarde com segurança)  
+- Colque um nome identificador para o DB  
+- Deixe o master name com o padrão (guarde para o database)
 - Modo: **Self-managed**  
+- Escolha uma senha (guarde para o database)  
 
 <img width="635" height="385" alt="Image" src="https://github.com/user-attachments/assets/9151211b-a2a9-4212-acd3-39f863267559" />
 
@@ -88,5 +88,6 @@
 - Clique em **Create Database**  
 
 ![Imagem]()
+
 
 
