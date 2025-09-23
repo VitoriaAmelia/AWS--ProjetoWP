@@ -56,12 +56,13 @@
 ---
 
 ## Connectivity
-- Verifique configurações padrão  
+- Verifique configurações padrão
+- 
+  <img width="629" height="263" alt="Image" src="https://github.com/user-attachments/assets/b4a9b24b-844b-4946-9d3b-b54b1f9c05c8" />
+  
 - Selecione a **VPC do projeto**  
 - Marque **Create new Subnet Group**  
 - Em **Existing VPC Security Groups**, selecione o **SG-RDS**  
-
-<img width="629" height="263" alt="Image" src="https://github.com/user-attachments/assets/b4a9b24b-844b-4946-9d3b-b54b1f9c05c8" />
 
 ---
 
@@ -88,6 +89,7 @@
 - Clique em **Create Database**  
 
 ![Imagem]()
+
 
 
 
