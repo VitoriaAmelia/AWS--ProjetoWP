@@ -19,7 +19,7 @@
 - Selecione a **VPC correta**  
 - Clique em **Customize**  
 
-![Imagem]()
+<img width="540" height="537" alt="Image" src="https://github.com/user-attachments/assets/02121803-a77b-47c7-a59a-b800553adac0" />
 
 - Desabilite **Enable Automatic Backups**  
 
@@ -51,7 +51,7 @@
 
 Depois, volte para **File Systems** e anote o **File System ID**  
 
-![Imagem]()
+<img width="770" height="177" alt="Image" src="https://github.com/user-attachments/assets/003f1740-43a9-4359-a111-22880e8ab1c0" />
 
 
 
