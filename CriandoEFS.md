@@ -43,7 +43,7 @@
 2. Selecione as **Subnets Privadas** correspondentes  
 3. Selecione o **Security Groups do EFS**
    
-   <img width="850" height="270" alt="image" src="https://github.com/user-attachments/assets/ffff7835-5b8e-40f5-8176-3443569f365a" />
+   <img width="950" height="240" alt="image" src="https://github.com/user-attachments/assets/ffff7835-5b8e-40f5-8176-3443569f365a" />
   
 
 ---
@@ -55,6 +55,7 @@
 Depois, volte para **File Systems** e anote o **File System ID**  
 
 <img width="770" height="177" alt="Image" src="https://github.com/user-attachments/assets/003f1740-43a9-4359-a111-22880e8ab1c0" />
+
 
 
 
