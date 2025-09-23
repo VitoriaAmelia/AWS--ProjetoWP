@@ -32,8 +32,7 @@
 
 8. Selecione **Balanced Best Effort**  
 
-    <img width="534" height="262" alt="Image" src="https://github.com/user-attachments/assets/717140b7-5a25-4fde-a1f2-f104add4f5ff" />
-
+   <img width="742" height="564" alt="Image" src="https://github.com/user-attachments/assets/ad41b302-a5de-43a8-b564-b234464f97a9" />
 ---
 
 9. Selecione **Attach to an existing Load Balancer**
