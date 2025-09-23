@@ -32,7 +32,7 @@
 
 8. Selecione **Balanced Best Effort**  
 
-    <img width="1534" height="462" alt="Image" src="https://github.com/user-attachments/assets/717140b7-5a25-4fde-a1f2-f104add4f5ff" />
+    <img width="534" height="262" alt="Image" src="https://github.com/user-attachments/assets/717140b7-5a25-4fde-a1f2-f104add4f5ff" />
 
 ---
 
