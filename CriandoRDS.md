@@ -90,13 +90,14 @@
 - Nome do database (anote)  
 - Desabilite **Automated Backup** (para reduzir custos)  
 
-<img width="686" height="438" alt="image" src="https://github.com/user-attachments/assets/bcfebfd9-debd-4089-bc47-ad90b37a9be8" />
+    <img width="686" height="438" alt="image" src="https://github.com/user-attachments/assets/bcfebfd9-debd-4089-bc47-ad90b37a9be8" />
 
 ---
 
 ## Finalizando
 - Confira o resumo  
 - Clique em **Create Database**  
+
 
 
 
