@@ -40,7 +40,7 @@
 
 8. Selecione o **SG** do Load Balancer  
 
-   <img width="692" height="270" alt="Image" src="https://github.com/user-attachments/assets/059bae58-4cee-420b-97aa-c52a938d64b0" />
+   <img width="592" height="230" alt="Image" src="https://github.com/user-attachments/assets/059bae58-4cee-420b-97aa-c52a938d64b0" />
 ---
 
 9. Em **Listening and Routing**, vá em **Create Target Group**  
@@ -90,6 +90,7 @@
 ---
 
 6. Crie o target group
+
 
 
 
