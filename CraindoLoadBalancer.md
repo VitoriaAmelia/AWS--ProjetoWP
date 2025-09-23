@@ -30,26 +30,22 @@
 
 6. Selecione a **VPC** do projeto  
 
-   <img src="imagem" alt="Imagem" />
-
+   <img width="552" height="156" alt="Image" src="https://github.com/user-attachments/assets/e2062eb3-c94d-47c7-8732-32eb9fbaed36" />
 ---
 
 7. Marque as duas zonas e escolha suas respectivas **subnets públicas**  
 
-   <img src="imagem" alt="Imagem" />
-
+   <img width="731" height="323" alt="Image" src="https://github.com/user-attachments/assets/6c27af9d-c69c-4c0e-b0af-0f151fe29d2a" />
 ---
 
 8. Selecione o **SG** do Load Balancer  
 
-   <img src="imagem" alt="Imagem" />
-
+   <img width="692" height="270" alt="Image" src="https://github.com/user-attachments/assets/059bae58-4cee-420b-97aa-c52a938d64b0" />
 ---
 
 9. Em **Listening and Routing**, vá em **Create Target Group**  
 
-   <img src="imagem" alt="Imagem" />
-
+   <img width="617" height="375" alt="Image" src="https://github.com/user-attachments/assets/5b760191-6ddf-4ee4-88b1-78bb926f3369" />
 ---
 
 10. Role mais para baixo o documento para achar o passo a passo da configuração do **Target Group** e depois volte para seguir os últimos dois passos.  
@@ -94,6 +90,7 @@
 ---
 
 6. Crie o target group
+
 
 
 
