@@ -5,7 +5,6 @@
 Este projeto fornece um guia passo a passo para criar e configurar uma infraestrutura completa na **AWS**, utilizando serviços como **VPC, Security Groups, RDS, EFS, Launch Template, Load Balancer, Auto Scaling e CloudWatch**.  
 É ideal para aqueles que querem implementar uma arquitetura escalável na nuvem
 
----
 
 ## 📂 Estrutura do Projeto
 
