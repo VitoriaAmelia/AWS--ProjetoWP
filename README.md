@@ -1,4 +1,4 @@
-# 🚀 Projeto AWS: Automação de Infraestrutura
+# 🚀 Projeto AWS
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker) ![WordPress](https://img.shields.io/badge/WordPress-CMS-blue?logo=wordpress) ![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash)
 
