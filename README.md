@@ -24,13 +24,11 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
 
 ## 🛠 Tecnologias e Conceitos Utilizados
 
-    | Categoria | Tecnologias / Conceitos |
-    |-----------|------------------------|
-    | **Infraestrutura (IaaS)** | EC2, RDS, EFS, VPC, Load Balancer, Auto Scaling |
-    | **Monitoramento e Observabilidade** | CloudWatch |
-    | **Gerenciamento de Rede e Segurança** | Security Groups, Subnets, Gateways |
-    | **Automação / Templates / Containers** | Launch Templates, User Data (scripts de inicialização), **Docker**, **Docker Compose v2.34.0** |
-    | **Computação em Nuvem** | Uso de AWS como plataforma de cloud computing |
+  - **Infraestrutura como Serviço (IaaS)** – EC2, RDS, EFS, VPC, Load Balancer, Auto Scaling.  
+  - **Monitoramento e observabilidade** – CloudWatch.  
+  - **Gerenciamento de rede e segurança** – Security Groups, Subnets, Gateways.  
+  - **Automação / Templates / Containers** – Launch Templates, User Data (scripts de inicialização), Docker, Docker Compose v2.34.0.  
+  - **Computação em nuvem** – uso de AWS como plataforma de cloud computing.
 
 
 ## 🎯 Objetivos do Projeto
