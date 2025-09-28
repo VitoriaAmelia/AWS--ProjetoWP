@@ -17,10 +17,12 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
   - `7.Criando Auto Scaling.md`
   - `9.Criando CloudWatch.md`
 
+
 ## 📝 Como Utilizar
 
   1. Seguir a ordem dos arquivos Markdown para criar a infraestrutura passo a passo  
   2. Configurar cada serviço conforme descrito nas etapas 
+
 
 ## 🛠 Tecnologias e Conceitos Utilizados
 
