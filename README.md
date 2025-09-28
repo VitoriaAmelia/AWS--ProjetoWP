@@ -2,7 +2,8 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker) ![WordPress](https://img.shields.io/badge/WordPress-CMS-blue?logo=wordpress) ![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash)
 
-  <img width="400" height="360" alt="image" src="https://github.com/user-attachments/assets/eb487bbf-f4e7-480c-b2f9-dfdf6a644df5" />
+  <img width="2500" height="1465" alt="pngwing com (6)" src="https://github.com/user-attachments/assets/e3209c76-d5e2-43a3-9570-95d0b334e667" />
+
 
 Este projeto fornece um guia passo a passo para criar e configurar uma infraestrutura completa na **AWS**, utilizando serviços como **VPC, Security Groups, RDS, EFS, Launch Template, Load Balancer, Auto Scaling e CloudWatch**.  
 É ideal para aqueles que querem implementar uma arquitetura escalável na nuvem
