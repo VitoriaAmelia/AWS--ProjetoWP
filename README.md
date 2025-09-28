@@ -35,7 +35,7 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
 
 ## 🎯 Objetivos do Projeto
 
-  - Criar uma aplicação **WordPress** será distribuída em múltiplas instâncias de EC2 por meio de um **Auto Scaling Group (ASG)**, com balanceamento de carga fornecido por um **Application Load Balancer (ALB)**.  
+  - Criar uma aplicação **WordPress** que será distribuída em múltiplas instâncias de EC2 por meio de um **Auto Scaling Group (ASG)**, com balanceamento de carga fornecido por um **Application Load Balancer (ALB)**.  
   - Garantir que o armazenamento de arquivos será centralizado e compartilhado através do **Amazon Elastic File System (EFS)**, enquanto os dados da aplicação serão armazenados em um banco relacional com o **Amazon RDS**.
 
 
