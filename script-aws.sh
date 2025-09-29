@@ -50,7 +50,7 @@ chmod -R 777 ${EFS_MOUNT_DIR}
 mkdir -p ${PROJECT_DIR}
 cd ${PROJECT_DIR}
 
-# Criar docker-compose.yml
+# Criação do docker-compose.yml
 cat > docker-compose.yml <<EOL
 version: '3.7'
 services:
@@ -76,3 +76,4 @@ else
   echo "EFS não montado, abortando docker-compose" >> /var/log/user-data.log
   exit 1
 fi
+
