@@ -25,6 +25,7 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
   - [9. Criando CloudWatch](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/9.%20Criando%20CloudWatch.md)
   - [10. Verificações](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/10.%20Verfica%C3%A7%C3%B5es.md)
   - [Dicas: Variáveis](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/Dicas%3A%20Vari%C3%A1veis.md)
+  - [Script](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/script-aws.sh)
 
 
 ## 📝 Como Utilizar
