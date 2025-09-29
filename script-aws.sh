@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Configurações iniciais
-db_name="dbprojetowp"
-db_user="admin"
-db_pass="teste_banco"
-efs_id="fs-0779fa6e745be3737"
-db_endpoint="dbprojetowp.cm3muik4uvpm.us-east-1.rds.amazonaws.com"
+db_name=""
+db_user=""
+db_pass=""
+efs_id=""
+db_endpoint=""
 docker_compose_ver="v2.34.0"
 project_path="/home/ec2-user/projeto-docker"
 efs_path="/mnt/efs"
@@ -76,3 +76,4 @@ else
   echo "EFS não montado, abortando docker-compose" >> /var/log/user-data.log
   exit 1
 fi
+
