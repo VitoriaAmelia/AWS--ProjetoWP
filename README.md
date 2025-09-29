@@ -42,6 +42,7 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
   - **Computação em nuvem** – uso de AWS como plataforma de cloud computing.
 
 ## ✏️ Arquitetura
+  - Obs: Ao invés de quatro subnets, foram utilizadas duas
 
   ![Image](https://github.com/user-attachments/assets/fb8f3c81-d449-4eaf-ae4e-12e01a643429)
 
