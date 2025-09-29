@@ -17,14 +17,16 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
 
 ## 📂 Estrutura do Projeto
 
-  - [1.CriandoVPC.md](1.CriandoVPC.md)
-  - [2.Configurando SG.md](2.ConfigurandoSG.md)
-  - [3.Criando RDS.md](
-  - [4.Criando EFS.md]
-  - [5.Criando Launch Template.md]
-  - [6.Criando Load Balancer.md]
-  - [7.Criando Auto Scaling.md]
-  - [9.Criando CloudWatch.md]
+  - [1. Criando VPC](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/1.%20CriandoVPC.md)
+  - [2. Configurando SG](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/2.%20Configurando%20SG.md)
+  - [3. Criando RDS](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/3.%20Criando%20RDS.md)
+  - [4. Criando EFS](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/4.%20Criando%20EFS.md)
+  - [5. Criando Launch Template](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/5.%20Criando%20Launch%20Template.md)
+  - [6. Criando Load Balancer](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/6.%20Criando%20Load%20Balancer.md)
+  - [7. Criando Auto Scaling](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/7.%20Criando%20Auto%20Scaling.md)
+  - [9. Criando CloudWatch](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/9.%20Criando%20CloudWatch.md)
+  - [10. Verificações](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/10.%20Verfica%C3%A7%C3%B5es.md)
+  - [Dicas: Variáveis](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/Dicas%3A%20Vari%C3%A1veis.md)
 
 
 ## 📝 Como Utilizar
