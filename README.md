@@ -18,13 +18,13 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
 ## 📂 Estrutura do Projeto
 
   - [1.CriandoVPC.md](1.CriandoVPC.md)
-  - `2.Configurando SG.md`
-  - `3.Criando RDS.md`
-  - `4.Criando EFS.md`
-  - `5.Criando Launch Template.md`
-  - `6.Criando Load Balancer.md`
-  - `7.Criando Auto Scaling.md`
-  - `9.Criando CloudWatch.md`
+  - [2.Configurando SG.md](2.Configurando SG.md)
+  - [3.Criando RDS.md]
+  - [4.Criando EFS.md]
+  - [5.Criando Launch Template.md]
+  - [6.Criando Load Balancer.md]
+  - [7.Criando Auto Scaling.md]
+  - [9.Criando CloudWatch.md]
 
 
 ## 📝 Como Utilizar
