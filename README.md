@@ -13,8 +13,6 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
   <img width="200" height="165" alt="pngwing com (6)" src="https://github.com/user-attachments/assets/e3209c76-d5e2-43a3-9570-95d0b334e667" />
 
 
-
-
 ## 📂 Estrutura do Projeto
 
   - [1. Criando VPC](https://github.com/VitoriaAmelia/AWS--ProjetoWP/blob/main/1.%20CriandoVPC.md)
@@ -45,7 +43,7 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
 
 ## Arquitetura
 
-  ![Image](https://github.com/user-attachments/assets/4a66391f-1e92-4652-9b59-807f05ff4fca)
+  ![Image](https://github.com/user-attachments/assets/fb8f3c81-d449-4eaf-ae4e-12e01a643429)
 
 ## 🎯 Objetivos do Projeto
 
