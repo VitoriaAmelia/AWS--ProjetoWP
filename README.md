@@ -41,7 +41,7 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
   - **Automação / Templates / Containers** – Launch Templates, User Data (scripts de inicialização), Docker, Docker Compose v2.34.0.  
   - **Computação em nuvem** – uso de AWS como plataforma de cloud computing.
 
-## Arquitetura
+## ✏️ Arquitetura
 
   ![Image](https://github.com/user-attachments/assets/fb8f3c81-d449-4eaf-ae4e-12e01a643429)
 
