@@ -44,6 +44,7 @@ Este projeto fornece um guia passo a passo para criar e configurar uma infraestr
   - **Computação em nuvem** – uso de AWS como plataforma de cloud computing.
 
 ## Arquitetura
+
   ![Image](https://github.com/user-attachments/assets/4a66391f-1e92-4652-9b59-807f05ff4fca)
 
 ## 🎯 Objetivos do Projeto
