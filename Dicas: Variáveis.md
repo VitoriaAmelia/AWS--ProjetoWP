@@ -1,4 +1,4 @@
-# Variáveis do Script e Onde Encontrá-las na AWS
+# 💡 Variáveis do Script e Onde Encontrá-las na AWS
 
 - **db_name** : o nome do banco que você definiu na criação do RDS.
 
